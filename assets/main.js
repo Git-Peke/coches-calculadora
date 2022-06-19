@@ -1,7 +1,7 @@
 let Dieselvalor ;
 let Gasolina ;
 
-fetch('/assets/carburadores.json')
+fetch('./assets/carburadores.json')
 .then(data => {
 return data.json();
 })
@@ -15,7 +15,7 @@ return data.json();
 let jsons;
 selectop = document.getElementById('inputGroupSelect02');
 
-fetch('/assets/data.json')
+fetch('./assets/data.json')
 .then(data => {
 return data.json();
 })
