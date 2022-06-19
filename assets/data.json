@@ -1,0 +1,21 @@
+[
+    {
+        "modelo": "BMW Serie 3",
+        "tipo": "Diesel",
+        "litroscada100": 4,
+        "id": 1
+    }, {
+        "modelo": "Mercedes-Benz Clase A",
+        "tipo":"Gasolina",
+        "litroscada100": 5.5,
+        "id": 2
+    }
+    , {
+        "modelo": "Audi TT",
+        "tipo":"Gasolina",
+        "litroscada100": 7.2,
+        "id": 3
+    }
+]
+
+
